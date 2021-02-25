@@ -6,8 +6,8 @@ This application allows a user to input compnany information such as departments
 
 ### Pictures of Application
 
-![]()
-![]()
+![](https://github.com/kspoth/employee-tracker/blob/main/assets/Screen%20Shot%202021-02-24%20at%2011.29.46%20PM.png?raw=true)
+![](https://github.com/kspoth/employee-tracker/blob/main/assets/Screen%20Shot%202021-02-24%20at%2011.23.56%20PM.png?raw=true)
 
 ### Built With
 
