@@ -3,13 +3,13 @@ const mysql = require("mysql");
 const consoletable = require("console.table")
 
 const connection = mysql.createConnection({
-    host: "localhost",
+    URL: "localhost",
 
     port: 3306,
 
     user: "root",
  
-    password: "Scooter#1",
+    password: "password",
     database: "employees_db"
   });
   connection.connect(function(err) {
