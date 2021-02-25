@@ -20,7 +20,6 @@ const connection = mysql.createConnection({
     employeeTracker();
   });
 
-//Start the initial command line prompt
 function employeeTracker() {
     inquirer.prompt({
         type: "list",
